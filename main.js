@@ -24,3 +24,4 @@ botonReset.addEventListener("click", () => {
   contador = 0;
   actualizarContador();
 })
+
