@@ -36,3 +36,9 @@ button {
 button:hover {
   background-color: #0056b3;
 }
+
+.btn-incrementar {
+  background-color: #28a745;}
+
+.btn-decrementar {
+  background-color: #dc3545;}
